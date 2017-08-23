@@ -1,4 +1,4 @@
-# UseGithub
+### UseGithub
 1. git clone 
 2. touch README.md
 3. git add
